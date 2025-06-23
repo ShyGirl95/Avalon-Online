@@ -1,12 +1,5 @@
-# Avalon-Online
-Online Board Game
+# Firebase Studio
 
-```bash
-npm ci
-```
-to install 
+This is a NextJS starter in Firebase Studio.
 
-```bash
-npm run dev
-```
-to launch
+To get started, take a look at src/app/page.tsx.
